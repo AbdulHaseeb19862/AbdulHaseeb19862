@@ -18,12 +18,12 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,npm,express,mongodb,mysql,wordpress,github,git,postman&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Abdul Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhaseeb&show_icons=true&theme=js)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaseeb&theme=js)
 
 
 <br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
+⭐️ From [abdulhaseeb](https://github.com/AbdulHaseeb19862)
