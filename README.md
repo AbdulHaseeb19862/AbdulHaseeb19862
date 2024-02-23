@@ -1,4 +1,4 @@
- <h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+ <h1>Welcome to My GitHub Profile! 👋</h1>
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning Front-End And Back-End
