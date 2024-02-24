@@ -20,9 +20,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,npm,express,mongodb,mysql,wordpress,github,git,postman&perline=5)](https://skillicons.dev)
 
-![Abdul Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhaseeb&show_icons=true&theme=js)
+![Abdul Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhaseeb&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaseeb&theme=js)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhaseeb&theme=dark)
 
 
 <br>
