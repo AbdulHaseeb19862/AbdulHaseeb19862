@@ -18,7 +18,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,npm,express,mongodb,mysql,wordpress,github,git,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,js,nodejs,npm,express,mongodb,mysql,wordpress,github,git,postman&perline=5)](https://skillicons.dev)
 
 ![Abdul_Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhaseeb&show_icons=true&theme=dark)
 
