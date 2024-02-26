@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Back-End
 - 💬 Ask me anything about JavaScript 
 - 📫 How to reach me: prghaseeb518@gmail.com
-- 😄 Pronous: He
+- 😄 Pronouns: He
 - ⚡ Fun fact: Instead of counting sheep to fall asleep, I count lines of code in my head. It's surprisingly effective!
   
 ### Connect with me:
